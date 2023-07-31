@@ -10,6 +10,11 @@ He contacted me to work with him on a book referencing and rating site.
 ## Available Scripts
 
 You need Frontend with this project.
+
+### Before start backend
+
+You need to create .env file at the root of this project. In this file, use DB_USER= and DB_PWD= for your access to your mongoDB.
+
 In the project directory, you can run:
 
 ### `nodemon server`
